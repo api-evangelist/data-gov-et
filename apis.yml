@@ -29,7 +29,7 @@ tags:
   - Ethiopia
 created: '2026-06-07'
 modified: '2026-06-07'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: data-gov-et:catalog
     name: Ethiopia Open Data CKAN Action API
